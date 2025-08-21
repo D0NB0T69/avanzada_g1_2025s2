@@ -7,3 +7,21 @@
     color: greenyellow;
 
 }
+p {
+    text-transform: uppercase;
+
+}
+
+nav .menu a{
+    border: 1px solid chocolate;
+}
+
+.lista li.item span{
+    color: blueviolet;
+}
+
+.grande, nav a{
+    font-size: 69px;
+
+}
+
